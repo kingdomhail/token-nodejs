@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "username": "admin@admin.com",
+            "password": "Admin@1",
+            "group": "admin"
+        },
+        {
+            "username": "user@user.com",
+            "password": "User@1",
+            "group": "user"
+        }
+    ]
+}
